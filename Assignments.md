@@ -1,46 +1,52 @@
 # Assignment Submissions
 
-# 1 Certification Requirement
-> - AI Fluency for Students
->
-> Kindly submit the verification link here 
-> - Introduction to Agent Skills
->
-> Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
+---
 
-# 2 Individual Project: Personal Portfolio
-> Personal Portfolio Project
->
-> - Kindly submit the GitHub Repo URL
->
-> - Kindly submit the Vercel Deployment URL
->
-> - Kindly submit the GitHub Pages (Documentation) URL
+## 1. Certification Requirement
 
-# 3 Team Project: AI Full Stack Application
-> Team Project: AI Full Stack Application
->
-> - Kindly submit the GitHub Repo URL
->
-> - Kindly submit the Live Application URL (Domain)
->
-> - Kindly submit the GitHub Pages (Documentation) URL
+| Requirement                                      | Link |
+|--------------------------------------------------|------|
+| AI Fluency for Students – Verification           |http://verify.skilljar.com/c/9nidgphumktr|
+| Introduction to Agent Skills – Verification      |http://verify.skilljar.com/c/8tsbxvys8ja3|
+| Certificates PDF (Google Drive)                  | [Add Link Here] |
 
-# 4 Linkedin Post
-> Submit the LinkedIn post URL
-> 
-> [LinkedIn post URL]
+---
 
-## For Second Year Buddies
+## 2. Individual Project: Personal Portfolio
 
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
+| Component                         | Link |
+|----------------------------------|------|
+| GitHub Repository                | [Add Repository URL] |
+| Vercel Deployment               | [Add Deployment URL] |
+| Documentation (GitHub Pages)    | [Add Documentation URL] |
 
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
+---
+
+## 3. Team Project: AI Full Stack Application
+
+| Component                         | Link |
+|----------------------------------|------|
+| GitHub Repository                | [Add Repository URL] |
+| Live Application (Domain)        | [Add Application URL] |
+| Documentation (GitHub Pages)    | [Add Documentation URL] |
+
+---
+
+## 4. LinkedIn Post
+
+| Requirement        | Link |
+|-------------------|------|
+| LinkedIn Post URL | [Add Link Here] |
+
+---
+
+## Submission Checklist
+
+- [ ] All verification links provided  
+- [ ] Google Drive link is accessible  
+- [ ] GitHub repositories are public  
+- [ ] Applications are deployed and working  
+- [ ] Documentation links are correct  
+- [ ] LinkedIn post submitted  
+
+---
