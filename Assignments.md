@@ -8,7 +8,7 @@
 |--------------------------------------------------|------|
 | AI Fluency for Students – Verification           |http://verify.skilljar.com/c/9nidgphumktr|
 | Introduction to Agent Skills – Verification      |http://verify.skilljar.com/c/8tsbxvys8ja3|
-| Certificates PDF (Google Drive)                  | [Add Link Here] |
+| Certificates PDF (Google Drive)                  | https://drive.google.com/drive/folders/1HNdueDI6ou3fmfg3cWRG0qb9c2n42AGH?usp=drive_link |
 
 ---
 
