@@ -16,9 +16,9 @@
 
 | Component                         | Link |
 |----------------------------------|------|
-| GitHub Repository                | [Add Repository URL] |
-| Vercel Deployment               | [Add Deployment URL] |
-| Documentation (GitHub Pages)    | [Add Documentation URL] |
+| GitHub Repository                | https://github.com/Castret/personal-portfolio |
+| Vercel Deployment               |https://portfolio-ivory-two-aqlgqkpx5r.vercel.app |
+| Documentation (GitHub Pages)    |https://castret.github.io/personal-portfolio/|
 
 ---
 
@@ -26,9 +26,9 @@
 
 | Component                         | Link |
 |----------------------------------|------|
-| GitHub Repository                | [Add Repository URL] |
-| Live Application (Domain)        | [Add Application URL] |
-| Documentation (GitHub Pages)    | [Add Documentation URL] |
+| GitHub Repository                |https://github.com/Hema-10/Notes_Generator |
+| Live Application (Domain)        | https://notes-generator-zfdu.vercel.app/ |
+| Documentation (GitHub Pages)    |https://github.com/10-Shyam/Notes_Generator/blob/main/README.md |
 
 ---
 
@@ -36,7 +36,7 @@
 
 | Requirement        | Link |
 |-------------------|------|
-| LinkedIn Post URL | [Add Link Here] |
+| LinkedIn Post URL |https://www.linkedin.com/posts/dhinesha-g-673601292_moderndevelopment-buildwithai-learningbydoing-activity-7444800447044972544-5KSi?utm_source=share&utm_medium=member_android&rcm=ACoAAEbkphYB2yF3DiJws8DXuBCyLk2jJp3M8KY|
 
 ---
 
